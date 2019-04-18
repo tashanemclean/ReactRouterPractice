@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Link {
+  font-weight: 900;
+  color: rgba(20, 130, 220, 0.753);
+  text-decoration: none;
+  display: flex;
+}
